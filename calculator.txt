@@ -1,1 +1,7 @@
-write code of calculator in any language
+public class Calculator{
+	public static void main(String[] args){
+		public static int Add(int a,int b){
+			return a+b;
+		}
+	}
+}
